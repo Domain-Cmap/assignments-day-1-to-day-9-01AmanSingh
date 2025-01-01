@@ -1,8 +1,4 @@
-Name- Akshat dua
-UID- 22BCS10591
-Branch- B.E.-CSE
-Sec􀆟on- KPIT-901’A’
-DAY-3
+
 Q1-Fibonacci Series Using Recursion
 #include <iostream>
 using namespace std;
